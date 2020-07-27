@@ -3,12 +3,13 @@
   <channel>
     <title>YE Huifang</title>
     <description>Stay Hungry  
-Stay Foolish
+Stay Foolish &lt;br&gt;
+A webist about a programmer with English major
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jul 2020 10:33:56 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2020 10:33:56 +0800</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2020 10:44:48 +0800</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2020 10:44:48 +0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
   </channel>
