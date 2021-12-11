@@ -5,5 +5,5 @@
 
 _site/generic.html:
   105      
-  106:     <li><a target="_blank" href="https://twitter.com/HuifangYe" class="icon fa-twitter"
+  106:     <li><a target="_blank" href="https://twitter.com/<username>" class="icon fa-twitter"
   107             ><span class="label">twitter</span></a></li>

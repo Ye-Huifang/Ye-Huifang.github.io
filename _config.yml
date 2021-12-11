@@ -6,17 +6,17 @@ title: YE Huifang
 description: |
   An enthusiast for language and technology <br>
   Bachelor's degree in Translation & Interpreting IN HUST <br>
-  MASTER OF Computer and Information Technology in UPENN (incoming)
+  MASTER OF Computer and Information Technology in UPENN
 owner: YE Huifang # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: 515108593@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ye-huifang.github.io/" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
+  twitter: https://twitter.com/HuifangYe
+  github: https://github.com/Ye-Huifang
   linkedin-square: https://www.linkedin.com/in/huifang-ye-386593199/
-  facebook-official: https://facebook.com/<username>
+  facebook-official: https://facebook.com/<https://www.facebook.com/profile.php?id=100071897513858>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #email: /contact/
